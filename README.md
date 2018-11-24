@@ -1,5 +1,5 @@
 # DayDayAlgorithm
-Implement an algorithm by python every day.
+Implement an algorithm or function by python every day.
 
 ### First algorithm
 
