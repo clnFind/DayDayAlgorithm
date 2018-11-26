@@ -7,5 +7,11 @@ Implement an algorithm or a function by python every day.
 ### Second algorithm
 * 逆波兰表达式实现（中缀和后缀）：[middle_to_after.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/middle_to_after.py)
 
-### Third 
+### Third 工厂函数
 * 类工厂函数实现命名元组：[named_tuple_by_factory.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/named_tuple_by_factory.py)
+
+### Fourth 单例模式
+* 单例模式 以元类和类装饰器两种方式实现：[singleton.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/singleton.py)
+
+### Fifth 装饰器
+* 类装饰器和函数装饰器的实现：[decorate_multi.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/decorate_multi.py)
