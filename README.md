@@ -15,3 +15,6 @@ Implement an algorithm or a function by python, and update irregularly.
 
 ### Fifth 装饰器
 * 类装饰器和函数装饰器的实现：[decorate_multi.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/decorate_multi.py)
+
+### Sixth 命名元组
+* 以命名元组的方式实现扑克牌：[poker.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/poker.py)
