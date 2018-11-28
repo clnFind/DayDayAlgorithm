@@ -34,8 +34,8 @@ def dict_key_set_one(key, value):
 
     if key in item:
         print("此 key 已被设置过，请设置新的key值")
+        return
     item[key] = value
-
     return MappingProxyType(item)
 
 
