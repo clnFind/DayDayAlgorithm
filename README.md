@@ -20,4 +20,4 @@ Implement an algorithm or a function by python, and update irregularly.
 * 以命名元组的方式实现扑克牌：[poker.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/poker.py)
 
 ### Seventh 字典不可变
-* 实现字典的键只能设置一次和字典不可变：[poker.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/dict_unchange.py)
+* 实现字典的键只能设置一次和字典不可变：[dict_unchange.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/dict_unchange.py)
