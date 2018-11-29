@@ -21,3 +21,6 @@ Implement an algorithm or a function by python, and update irregularly.
 
 ### Seventh 字典不可变
 * 实现字典的键只能设置一次和字典不可变：[dict_unchange.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/dict_unchange.py)
+
+### Eighths 动态属性
+* 实现以动态属性访问 json 数据：[frozen_json.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/frozen_json.py)
