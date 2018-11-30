@@ -24,3 +24,6 @@ Implement an algorithm or a function by python, and update irregularly.
 
 ### Eighths 动态属性
 * 实现以动态属性访问 json 数据：[frozen_json.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/frozen_json.py)
+
+### Ninth asyncio
+* 测试协程 和 aiohttp 高并发http请求：[async](https://github.com/clnFind/DayDayAlgorithm/blob/master/async)
