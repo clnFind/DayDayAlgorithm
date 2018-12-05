@@ -1,6 +1,9 @@
 # DayDayAlgorithm
 Implement an algorithm or a function by python, and update irregularly.
 
+### Zero leetcode
+* leetcode 刷题 [leetcode](https://github.com/clnFind/DayDayAlgorithm/blob/master/leetcode)
+
 ### First algorithm
 * 字符串左移 n 位实现： [str_left_rotate.py](https://github.com/clnFind/DayDayAlgorithm/blob/master/str_left_rotate.py)
 
