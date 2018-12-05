@@ -25,13 +25,13 @@ class Solution(object):
 
         # 进位
         carry = (l1.val + l2.val) // 10
-        while l1.next is not None or l2.next is not None:
+        while l1.next or l2.next:
             num1 = 0
             num2 = 0
-            if l1.next is not None:
+            if l1.next:
                 l1 = l1.next
                 num1 = l1.val
-            if l2.next is not None:
+            if l2.next:
                 l2 = l2.next
                 num2 = l2.val
             current.next = ListNode((num1 + num2 + carry) % 10)
